@@ -1,0 +1,19 @@
+name: L-Blacklist
+version: 1.0.0
+main: com.banaffi.lbanamnesty.LBanAmnestyPlugin
+api-version: "1.21"
+author: squezsaz
+description: AdvancedBan-compatible blacklist GUI with auto-ban + unban guard
+softdepend: [AdvancedBan]
+
+commands:
+  blacklist:
+    description: Open the blacklist manager GUI.
+    usage: /blacklist
+    permission: blacklist.admin
+
+permissions:
+  blacklist.admin:
+    description: Allows use of /blacklist
+    default: op
+

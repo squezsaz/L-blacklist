@@ -1,0 +1,19 @@
+language: tr # or "en"
+
+sounds:
+  openGui: "UI_BUTTON_CLICK"
+  addBlacklist: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  removeBlacklist: "BLOCK_ANVIL_BREAK"
+  pageChange: "UI_BUTTON_CLICK"
+  error: "BLOCK_NOTE_BLOCK_BASS"
+  success: "ENTITY_PLAYER_LEVELUP"
+
+# Blacklist storage:
+# blacklist:
+#   <uuid>:
+#     name: "PlayerName"
+#     reason: "Reason here"
+#     addedBy: "AdminName"
+#     addedAt: 1700000000000
+blacklist: {}
+

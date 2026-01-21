@@ -1,0 +1,74 @@
+messages:
+  onlyPlayers:
+    tr: "&cBu komutu sadece oyuncular kullanabilir."
+    en: "&cOnly players can use this command."
+  noPermission:
+    tr: "&cBu komutu kullanmak için yetkin yok."
+    en: "&cYou lack permission to use this command."
+  searchPrompt:
+    tr: "&eAramak istediğin ismi yaz (büyük/küçük harf önemsiz)."
+    en: "&eType a name to search (case-insensitive)."
+  addPrompt:
+    tr: "&eKaralisteye eklenecek oyuncu ismini yaz. Oyuncu isminden sonra boşluk bırakarak sebep yazabilirsin."
+    en: "&eType player name to blacklist. Optional reason after a space."
+  mustProvideName:
+    tr: "&cBir oyuncu ismi girmelisin."
+    en: "&cYou must provide a player name."
+  cannotBlacklistOp:
+    tr: "&cBu oyuncuyu karalisteye ekleyemezsiniz."
+    en: "&cYou cannot blacklist operators."
+  blacklistedPlayer:
+    tr: "&a%player% kullanıcısı karalisteye eklendi. Sebep: %reason%"
+    en: "&a%player% has been blacklisted. Reason: %reason%"
+  removedFromBlacklist:
+    tr: "&a%player% karalisteden kaldırıldı."
+    en: "&a%player% was removed from blacklist."
+  unbanBlocked:
+    tr: "&cBu oyuncu karalistede olduğu için banı kaldırılamaz."
+    en: "&cThis player is blacklisted and cannot be unbanned."
+  infoReason:
+    tr: "&7Sebep: &f%reason%"
+    en: "&7Reason: &f%reason%"
+  infoAddedBy:
+    tr: "&7Ekleyen: &f%addedBy%"
+    en: "&7Added by: &f%addedBy%"
+  reloadSuccess:
+    tr: "&aKonfigürasyon ve mesajlar yenilendi."
+    en: "&aConfiguration and messages reloaded."
+  guiTitle:
+    tr: "&4Blacklist | Sayfa %page% / %pages%"
+    en: "&4Blacklist | Page %page% / %pages%"
+  guiLoreHint:
+    tr: "&eSol tık: onayla | Shift: hızlı kaldır | Sağ: bilgi"
+    en: "&eLeft: confirm | Shift: quick remove | Right: info"
+  btnAdd:
+    tr: "&a➕ Oyuncu ekle"
+    en: "&a➕ Add player"
+  btnSearch:
+    tr: "&b🔍 Ara"
+    en: "&b🔍 Search"
+  btnPrev:
+    tr: "&e⬅ Önceki sayfa"
+    en: "&e⬅ Previous page"
+  btnNext:
+    tr: "&e➡ Sonraki sayfa"
+    en: "&e➡ Next page"
+  btnRefresh:
+    tr: "&6🔄 Yenile"
+    en: "&6🔄 Refresh"
+  btnPage:
+    tr: "&fSayfa %page% / %pages%"
+    en: "&fPage %page% / %pages%"
+  btnClose:
+    tr: "&c🚪 Kapat"
+    en: "&c🚪 Close"
+  confirmTitle:
+    tr: "&4%player% kaldırılsın mı?"
+    en: "&4Remove %player%?"
+  confirmYes:
+    tr: "&a✔ Onayla"
+    en: "&a✔ Confirm"
+  confirmNo:
+    tr: "&c✖ Vazgeç"
+    en: "&c✖ Cancel"
+
